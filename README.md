@@ -1,4 +1,4 @@
-# recommender-systems-project
+# nn-recommender
 
 The goal of the project was to create a recommendation system that uses Neural Network and tunning it.
 
