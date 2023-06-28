@@ -1,7 +1,6 @@
 # recommender-systems-project
 
-The goal of the project was to create a recommendation system that, for hotel booking data, would be more effective than
-Amazon's recommender (HR@10 evaluation).
+The goal of the project was to create a recommendation system that uses Neural Network and tunning it.
 
 ## Preparing your computer
 
